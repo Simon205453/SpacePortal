@@ -33,7 +33,7 @@ public class DemoApplication {
         return (args) -> {
 
             /**
-             *  Orders
+             *  Create Orders
              */
             final List<Order> orders = new ArrayList<>();
             orders.add(new Order(new Date()));
